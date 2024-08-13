@@ -4,14 +4,12 @@ Vancouver, BC<a name="_hlk64578416"></a> | pranjalkeshari99@gmail.com | [linkedi
 
 `	`![](Aspose.Words.79478946-d674-4b5d-abb8-6b0b94e63409.001.png)
 # **Technical Skills**
-![ref1]
 
 - **Languages**			Java, Python, C++
 - **Web Development** 		HTML, CSS, JavaScript, WordPress
 - **Databases**                                            MySQL, SQL, Microsoft Azure, AWS**	
 - **Tools/Applications**		Git, Gitlab, Databricks, Jira, Slack, Confluence
 # **Work Experience**
-![ref1]![ref1]
 
 **Software Developer** |** Alok Electronics and Furniture 	                                                                                                    Jun 2023 – July 2024
 
@@ -40,18 +38,14 @@ Vancouver, BC<a name="_hlk64578416"></a> | pranjalkeshari99@gmail.com | [linkedi
 - Collaborated with cross-functional teams to gather requirements and prototyped UI/UX components using Figma, ensuring alignment with business objectives and user needs
 - Optimized website performance and speed, achieving a **18% reduction in load times** and improving user experience 
 # **Featured Projects**
-![ref1]
 
 - **Restaurant Evaluator Android App (Java)**: Application for health inspection of restaurants by fetching updated data. Executed JUnit testing by using dependency injection, repeated testing, and parallel execution using SDLC
 - **Hope Health Action (JavaScript):** Created a website by utilizing Java and SQL for non-profit organization Hope Health Action to manage data. Engineered a database for each department to collect data across South Africa for infield workers
 - **Digital Recognition with CNN (Python):** Performed forward pass, implemented inner product layer, pooling layer, ReLu, and convolution layer. Trained the data set with real-world images to identify digits with 95% accuracy
 # **Education**
-![ref1]
 
 **BSc in Computing Science,** Simon Fraser University                                              	                                                   Sep 2017 – Apr 2023 
 
 - **Activities and Leadership Roles:** Peer Educator, Awareness Campaign Team Leader, Orientation Leader, and Mentor
 
-**Diploma in Information Technology,** Manav Bharti Education Mission   		       	                                  Apr 2016 – Aug 2017**  
-
-[ref1]: Aspose.Words.79478946-d674-4b5d-abb8-6b0b94e63409.002.png
+**Diploma in Information Technology,** Manav Bharti Education Mission   		       	                                  Apr 2016 – Aug 2017** 
