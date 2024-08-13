@@ -43,7 +43,15 @@ Apr 2020 – Dec 2020
 - Designed and built a website using HTML, CSS, and JavaScript for a corporation based in Vancouver (synergyonboards.com)
 - Integrated a secure payment gateway using Stripe API and implemented TLS encryption, achieving a 99.9% transaction success rate and enhancing user engagement by 20%
 - Collaborated with cross-functional teams to gather requirements and prototyped UI/UX components using Figma, ensuring alignment with business objectives and user needs
-- Optimized website performance and speed, achieving a **18% reduction in load times** and improving user experience 
+- Optimized website performance and speed, achieving a **18% reduction in load times** and improving user experience
+
+**Data Analyst** | Simon Fraser University 	                                                                                                                                    
+Sep 2018 – Aug 2021
+
+- Conducted research and data analysis on 5 diverse projects, interpreting and synthesizing data from various platforms, leading to a 30% increase in the research efficiency, Language: Python
+- Scraped data from Twitter and other social media platforms to analyse and train machine learning models, leveraging natural language processing and sentiment analysis for actionable insights
+- Transformed data on the university website into simplified formats, enhancing accessibility and productivity for Indigenous students seeking assistance, resulting in a 10% increase in user engagement and satisfaction
+
 
 # **Featured Projects**
 
