@@ -1,6 +1,6 @@
 **PRANJAL KESHARI**
 
-Vancouver, BC<a name="_hlk64578416"></a> | pranjalkeshari99@gmail.com | [linkedin.com/in/pranjalkeshari99](http://www.linkedin.com/in/pranjalkeshari99) [|](http://www.linkedin.com/in/pranjalkeshari99) [github.com/PranjalKeshari99](https://github.com/PranjalKeshari99)
+Vancouver, BC<a name="_hlk64578416"></a> | pranjalkeshari99@gmail.com | [linkedin.com/in/pranjalkeshari99](http://www.linkedin.com/in/pranjalkeshari99) [|](http://www.linkedin.com/in/pranjalkeshari99)
 
 `	`![](Aspose.Words.79478946-d674-4b5d-abb8-6b0b94e63409.001.png)
 # **Technical Skills**
