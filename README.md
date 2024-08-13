@@ -6,10 +6,11 @@
 
 # **Technical Skills**
 
-- **Languages:**			Java, Python, C++
+- **Languages:**	        Java, Python, C++
 - **Web Development:** 		HTML, CSS, JavaScript, WordPress
-- **Databases:**                                            MySQL, SQL, Microsoft Azure, AWS
-- **Tools/Applications:**		Git, Gitlab, Databricks, Jira, Slack, Confluence
+- **Databases:**          MySQL, SQL, Microsoft Azure, AWS
+- **Machine Learning:**		Scikit-learn, NLTK, NumPy, Pandas, Apache Spark
+- **Tools/Applications:**	 Git, Gitlab, Databricks, Jira, Slack, Confluence
 
 
 # **Work Experience**
@@ -48,9 +49,9 @@ Apr 2020 – Dec 2020
 **Data Analyst** | Simon Fraser University 	                                                                                                                                    
 Sep 2018 – Aug 2021
 
-- Conducted research and data analysis on 5 diverse projects, interpreting and synthesizing data from various platforms, leading to a 30% increase in the research efficiency, Language: Python
+- Conducted research and data analysis on 5 diverse projects, interpreting and synthesizing data from various platforms, **leading to a 30% increase in the research efficiency**, Language: Python
 - Scraped data from Twitter and other social media platforms to analyse and train machine learning models, leveraging natural language processing and sentiment analysis for actionable insights
-- Transformed data on the university website into simplified formats, enhancing accessibility and productivity for Indigenous students seeking assistance, resulting in a 10% increase in user engagement and satisfaction
+- Transformed data on the university website into simplified formats, **enhancing accessibility and productivity for Indigenous students seeking assistance**, resulting in a **10% increase** in user engagement and satisfaction
 
 
 # **Featured Projects**
