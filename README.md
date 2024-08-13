@@ -1,8 +1,9 @@
 **PRANJAL KESHARI**
 
-Vancouver, BC<a name="_hlk64578416"></a> | pranjalkeshari99@gmail.com | [linkedin.com/in/pranjalkeshari99](http://www.linkedin.com/in/pranjalkeshari99) [|](http://www.linkedin.com/in/pranjalkeshari99)
+Vancouver, BC
+pranjalkeshari99@gmail.com 
+http://www.linkedin.com/in/pranjalkeshari99
 
-`	`![](Aspose.Words.79478946-d674-4b5d-abb8-6b0b94e63409.001.png)
 # **Technical Skills**
 
 - **Languages**			Java, Python, C++
