@@ -42,7 +42,7 @@ Sep 2021 – Apr 2022
 Apr 2020 – Dec 2020
 
 - Designed and built a website using HTML, CSS, and JavaScript for a corporation based in Vancouver (synergyonboards.com)
-- Integrated a secure payment gateway using Stripe API and implemented TLS encryption, achieving a 99.9% transaction success rate and enhancing user engagement by 20%
+- Integrated a secure payment gateway using Stripe API and implemented TLS encryption, **achieving a 99.9% transaction success rate and enhancing user engagement by 20%**
 - Collaborated with cross-functional teams to gather requirements and prototyped UI/UX components using Figma, ensuring alignment with business objectives and user needs
 - Optimized website performance and speed, achieving a **18% reduction in load times** and improving user experience
 
