@@ -1,8 +1,8 @@
 **PRANJAL KESHARI**
 
-Vancouver, BC
-pranjalkeshari99@gmail.com 
-http://www.linkedin.com/in/pranjalkeshari99
+- Vancouver, BC
+- pranjalkeshari99@gmail.com 
+- http://www.linkedin.com/in/pranjalkeshari99
 
 # **Technical Skills**
 
