@@ -10,6 +10,8 @@
 - **Web Development** 		HTML, CSS, JavaScript, WordPress
 - **Databases**                                            MySQL, SQL, Microsoft Azure, AWS**	
 - **Tools/Applications**		Git, Gitlab, Databricks, Jira, Slack, Confluence
+
+
 # **Work Experience**
 
 **Software Developer** | Alok Electronics and Furniture 	                                                                                                    
