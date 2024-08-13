@@ -48,4 +48,4 @@ Vancouver, BC<a name="_hlk64578416"></a> | pranjalkeshari99@gmail.com | [linkedi
 
 - **Activities and Leadership Roles:** Peer Educator, Awareness Campaign Team Leader, Orientation Leader, and Mentor
 
-**Diploma in Information Technology,** Manav Bharti Education Mission   		       	                                  Apr 2016 – Aug 2017** 
+**Diploma in Information Technology,** Manav Bharti Education Mission   		       	                                  Apr 2016 – Aug 2017
