@@ -6,10 +6,10 @@
 
 # **Technical Skills**
 
-- **Languages**			Java, Python, C++
-- **Web Development** 		HTML, CSS, JavaScript, WordPress
-- **Databases**                                            MySQL, SQL, Microsoft Azure, AWS**	
-- **Tools/Applications**		Git, Gitlab, Databricks, Jira, Slack, Confluence
+- **Languages: **			Java, Python, C++
+- **Web Development: ** 		HTML, CSS, JavaScript, WordPress
+- **Databases: **                                            MySQL, SQL, Microsoft Azure, AWS
+- **Tools/Applications: **		Git, Gitlab, Databricks, Jira, Slack, Confluence
 
 
 # **Work Experience**
