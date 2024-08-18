@@ -57,7 +57,7 @@ Sep 2018 – Aug 2021
 # **Featured Projects**
 
 - **Restaurant Evaluator Android App (Java)**: Application for health inspection of restaurants by fetching updated data. Executed JUnit testing by using dependency injection, repeated testing, and parallel execution using SDLC
-- **Hope Health Action (JavaScript):** Created a website by utilizing Java and SQL for non-profit organization Hope Health Action to manage data. Engineered a database for each department to collect data across South Africa for infield workers
+- **Hope Health Action (JavaScript):** Created a website by utilizing JavaScript and SQL for non-profit organization Hope Health Action to manage data. Engineered a database for each department to collect data across South Africa for infield workers
 - **Digital Recognition with CNN (Python):** Performed forward pass, implemented inner product layer, pooling layer, ReLu, and convolution layer. Trained the data set with real-world images to identify digits with 95% accuracy
 
 # **Education**
