@@ -16,7 +16,7 @@
 # **Work Experience**
 
 **Software Developer** | Alok Electronics and Furniture 	                                                                                                    
-Jun 2023 – July 2024
+Jun 2023 – Oct 2024
 
 - Developed, and implemented a customized Point of Sale (POS) system for an electronic store using **Python, and MySQL database with Kivy framework**
 - Transformed sales workflows and elevated customer experience through comprehensive technical training and detailed documentation, resulting in a **30% improvement in POS system adoption** and a 20% reduction in support tickets        
