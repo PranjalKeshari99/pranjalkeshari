@@ -31,14 +31,14 @@ Sep 2022 – Apr 2023
 - Applied Natural Language Processing (NLP) to classify handwritten text from downtime and work order logs into categories ('asset,' 'component,' 'problem'), enabling identification of downtime causes with **82% accuracy**
 - Conducted workshops and training sessions for software development teams on the application and benefits of machine learning models in asset management
 
-**Developer** | Simon Fraser University	                                                                                                                                    
+**Research Developer** | Simon Fraser University	                                                                                                                                    
 Sep 2021 – Apr 2022
 
 - Developed a gamified platform that enabled over 450 students to participate in quizzes aimed at assessing the effectiveness of gamification in educational settings
 - Utilized **Java and MySQL** with Spring Boot framework for backend development and database, implementing **RESTful APIs** for quiz management and data analysis
 - Collaborated closely with academic researchers to refine experimental designs, interpret research findings, and contribute insights to academic publications
 
-**Web Developer** | Synergy On Boards				  			                  
+**Research Web Developer** | Synergy On Boards				  			                  
 Apr 2020 – Dec 2020
 
 - Designed and built a website using HTML, CSS, and JavaScript for a corporation based in Vancouver (synergyonboards.com)
@@ -46,7 +46,7 @@ Apr 2020 – Dec 2020
 - Collaborated with cross-functional teams to gather requirements and prototyped UI/UX components using Figma, ensuring alignment with business objectives and user needs
 - Optimized website performance and speed, achieving a **18% reduction in load times** and improving user experience
 
-**Data Analyst** | Simon Fraser University 	                                                                                                                                    
+**Research Data Analyst** | Simon Fraser University 	                                                                                                                                    
 Sep 2018 – Aug 2021
 
 - Conducted research and data analysis on 5 diverse projects, interpreting and synthesizing data from various platforms, **leading to a 30% increase in the research efficiency**, Language: Python
